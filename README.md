@@ -1,1 +1,1 @@
-# JB2_maven
+# Простой проект: maven + git + junit
